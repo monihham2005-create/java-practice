@@ -1,4 +1,6 @@
 import java.util.ArrayList;
+import java.util.List;
+import java.util.Array;
 
 class thurs2{
     public static void main(String[] args){
@@ -19,5 +21,7 @@ class thurs2{
        System.out.println(a);
        a.set(0,"welcome");
        System.out.println(a);
+     
+       System.out.println(a.indexof("hello"));
     }
 }
