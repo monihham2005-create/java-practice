@@ -9,7 +9,7 @@ class f1{
         //f.createNewReader();
        // System.out.println(f.getCanonicalPath());
         BufferedWriter fw=new BufferedWriter (new FileWriter("hello.txt"));
-        fw.write("like listening music");
+        fw.write("kerosine dopamine chemical induced fantasy and fame the things we choose show me hate,show me love,make me bullet proof we call this shit normal runaway out of sight dont know what i want wish i had a minute just turn me off kerosine dopomine what i got to do yeah we call this shit normal");
         fw.close();
         System.out.println(fw);
         BufferedReader fr=new BufferedReader (new FileReader("hello.txt"));
