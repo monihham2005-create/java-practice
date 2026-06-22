@@ -99,7 +99,7 @@ This repository is continuously updated with:
 
 Monihha M
 
-Computer Science Student | Java Developer Aspirant | DSA Learner
+Artificial intelligence and data science Student | Java Developer Aspirant | DSA Learner
 
 ## License
 
